@@ -1,0 +1,1 @@
+name 'chef-acceptance-tests'
